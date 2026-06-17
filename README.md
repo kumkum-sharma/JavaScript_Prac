@@ -1,2 +1,2 @@
 # JavaScript_Prac
-Starting with JavaScript for Full Stack development learning.
+Learning JavaScript for my Full Stack development journey.
